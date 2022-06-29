@@ -1,0 +1,501 @@
+city|city_ascii|state_id|state_name|county_fips|county_name|lat|lon|population|density|source|military|incorporated|timezone|ranking|id
+Lamberton|Lamberton|MN|Minnesota|27127|Redwood|44.2306|-95.2676|831|419|shape|FALSE|TRUE|America/Chicago|3|1840007873
+Shoreham|Shoreham|MI|Michigan|26021|Berrien|42.0604|-86.5115|831|547|shape|FALSE|TRUE|America/Detroit|3|1840011229
+Hardin|Hardin|IL|Illinois|17013|Calhoun|39.1591|-90.6248|831|150|shape|FALSE|TRUE|America/Chicago|3|1840012684
+Tilghman Island|Tilghman Island|MD|Maryland|24041|Talbot|38.7008|-76.3353|831|133|shape|FALSE|FALSE|America/New_York|3|1840031488
+Pearl City|Pearl City|IL|Illinois|17177|Stephenson|42.2668|-89.8271|831|500|shape|FALSE|TRUE|America/Chicago|3|1840011118
+Libertytown|Libertytown|MD|Maryland|24021|Frederick|39.4859|-77.2482|831|133|shape|FALSE|FALSE|America/New_York|3|1840024452
+Ridgway|Ridgway|IL|Illinois|17059|Gallatin|37.7979|-88.2606|831|364|shape|FALSE|TRUE|America/Chicago|3|1840012970
+Annville|Annville|KY|Kentucky|21109|Jackson|37.3254|-83.9621|831|40|shape|FALSE|FALSE|America/New_York|3|1840013236
+Stafford|Stafford|KS|Kansas|20185|Stafford|37.9624|-98.5995|830|350|shape|FALSE|TRUE|America/Chicago|3|1840009830
+Shalimar|Shalimar|FL|Florida|12091|Okaloosa|30.4435|-86.5830|830|918.0|shape|FALSE|TRUE|America/Chicago|3|1840018212
+Empire City|Empire City|OK|Oklahoma|40137|Stephens|34.4803|-98.0552|830|34|shape|FALSE|TRUE|America/Chicago|3|1840021887
+Hanna|Hanna|WY|Wyoming|56007|Carbon|41.8697|-106.5597|830|156|shape|FALSE|TRUE|America/Denver|3|1840021314
+Lakeville|Lakeville|CT|Connecticut|09005|Litchfield|41.9595|-73.4485|830|83|shape|FALSE|FALSE|America/New_York|3|1840026222
+Rhine|Rhine|GA|Georgia|13091|Dodge|31.9891|-83.2000|830|102|shape|FALSE|TRUE|America/New_York|3|1840018116
+Cardwell|Cardwell|MO|Missouri|29069|Dunklin|36.0475|-90.2909|830|508|shape|FALSE|TRUE|America/Chicago|3|1840007664
+Whiting|Whiting|IA|Iowa|19133|Monona|42.1272|-96.1507|829|314|shape|FALSE|TRUE|America/Chicago|3|1840010133
+Grand Junction|Grand Junction|IA|Iowa|19073|Greene|42.0330|-94.2369|829|330|shape|FALSE|TRUE|America/Chicago|3|1840008121
+Elberfeld|Elberfeld|IN|Indiana|18173|Warrick|38.1617|-87.4482|829|588.6|shape|FALSE|TRUE|America/Chicago|3|1840010820
+New Holland|New Holland|OH|Ohio|39129|Pickaway|39.5544|-83.2595|829|163|shape|FALSE|TRUE|America/New_York|3|1840012555
+Oil City|Oil City|LA|Louisiana|22017|Caddo|32.7454|-93.9758|829|179|shape|FALSE|TRUE|America/Chicago|3|1840016933
+Axtell|Axtell|NE|Nebraska|31099|Kearney|40.4798|-99.1292|829|689|shape|FALSE|TRUE|America/Chicago|3|1840012065
+Autaugaville|Autaugaville|AL|Alabama|01001|Autauga|32.4320|-86.6578|829|40|shape|FALSE|TRUE|America/Chicago|3|1840015797
+Lilly|Lilly|PA|Pennsylvania|42021|Cambria|40.4244|-78.6202|829|613|shape|FALSE|TRUE|America/New_York|3|1840001117
+Screven|Screven|GA|Georgia|13305|Wayne|31.4840|-82.0171|829|148|shape|FALSE|TRUE|America/New_York|3|1840015857
+Sheffield|Sheffield|IL|Illinois|17011|Bureau|41.3580|-89.7391|828|273|shape|FALSE|TRUE|America/Chicago|3|1840011582
+Eden|Eden|UT|Utah|49057|Weber|41.3022|-111.8085|828|76|shape|FALSE|FALSE|America/Denver|3|1840024158
+Tesuque|Tesuque|NM|New Mexico|35049|Santa Fe|35.7487|-105.9209|828|56|shape|FALSE|FALSE|America/Denver|3|1840019104
+Seven Mile|Seven Mile|OH|Ohio|39017|Butler|39.4858|-84.5523|828|442|shape|FALSE|TRUE|America/New_York|3|1840012609
+Auburn|Auburn|NJ|New Jersey|34033|Salem|39.6969|-75.3561|828|75|shape|FALSE|FALSE|America/New_York|3|1840033219
+Bloomsdale|Bloomsdale|MO|Missouri|29186|Ste. Genevieve|38.0146|-90.2213|828|196|shape|FALSE|TRUE|America/Chicago|3|1840007544
+Whitecone|Whitecone|AZ|Arizona|04017|Navajo|35.6037|-110.0791|828|7|shape|FALSE|TRUE|America/Denver|4|1840027881
+Brecon|Brecon|OH|Ohio|39061|Hamilton|39.2798|-84.3531|828|486|shape|FALSE|FALSE|America/New_York|3|1840024514
+Blue Ridge|Blue Ridge|TX|Texas|48085|Collin|33.2978|-96.3978|828|286|shape|FALSE|TRUE|America/Chicago|3|1840019398
+Coldwater|Coldwater|KS|Kansas|20033|Comanche|37.2582|-99.3378|828|124|shape|FALSE|TRUE|America/Chicago|3|1840007624
+Osmond|Osmond|WY|Wyoming|56023|Lincoln|42.6777|-110.9408|828|100|shape|FALSE|FALSE|America/Denver|3|1840024048
+South Coffeyville|South Coffeyville|OK|Oklahoma|40105|Nowata|36.9921|-95.6219|828|433|shape|FALSE|TRUE|America/Chicago|3|1840022594
+Ossineke|Ossineke|MI|Michigan|26007|Alpena|44.9072|-83.4287|828|87|shape|FALSE|FALSE|America/Detroit|3|1840006574
+Cloudcroft|Cloudcroft|NM|New Mexico|35035|Otero|32.9532|-105.7326|828|195|shape|FALSE|TRUE|America/Denver|3|1840023001
+Ashton|Ashton|IL|Illinois|17103|Lee|41.8682|-89.2225|827|476|shape|FALSE|TRUE|America/Chicago|3|1840011426
+Avery|Avery|TX|Texas|48387|Red River|33.5521|-94.7803|827|336|shape|FALSE|TRUE|America/Chicago|3|1840020570
+Rockford|Rockford|IA|Iowa|19067|Floyd|43.0524|-92.9477|827|512|shape|FALSE|TRUE|America/Chicago|3|1840009061
+Mayville|Mayville|MI|Michigan|26157|Tuscola|43.3363|-83.3520|827|296|shape|FALSE|TRUE|America/Detroit|3|1840010973
+Maricao|Maricao|PR|Puerto Rico|72093|Maricao|18.1838|-66.9810|827|191.8|shape|FALSE|FALSE|America/Puerto_Rico|3|1630023678
+Oxford|Oxford|MD|Maryland|24041|Talbot|38.6850|-76.1702|827|568|shape|FALSE|TRUE|America/New_York|3|1840006090
+Rock Island|Rock Island|OK|Oklahoma|40079|Le Flore|35.1831|-94.4811|827|26|shape|FALSE|TRUE|America/Chicago|3|1840021796
+Arlington Heights|Arlington Heights|OH|Ohio|39061|Hamilton|39.2154|-84.4556|827|1175.9|shape|FALSE|TRUE|America/New_York|3|1840003811
+White Oak|White Oak|MS|Mississippi|28143|Tunica|34.6438|-90.3495|827|691|shape|FALSE|FALSE|America/Chicago|3|1840025842
+South Weldon|South Weldon|NC|North Carolina|37083|Halifax|36.4135|-77.6024|827|733|shape|FALSE|FALSE|America/New_York|3|1840013310
+Sugar Grove|Sugar Grove|VA|Virginia|51173|Smyth|36.7689|-81.4075|827|109|shape|FALSE|FALSE|America/New_York|3|1840006513
+Riceboro|Riceboro|GA|Georgia|13179|Liberty|31.7264|-81.4438|826|28|shape|FALSE|TRUE|America/New_York|3|1840014930
+Pringle|Pringle|PA|Pennsylvania|42079|Luzerne|41.2774|-75.9012|826|693|shape|FALSE|TRUE|America/New_York|3|1840000768
+Slaughter|Slaughter|LA|Louisiana|22037|East Feliciana|30.7219|-91.1393|826|58|shape|FALSE|TRUE|America/Chicago|3|1840018213
+Nevada|Nevada|OH|Ohio|39175|Wyandot|40.8188|-83.1312|826|310|shape|FALSE|TRUE|America/New_York|3|1840011888
+Manilla|Manilla|IA|Iowa|19047|Crawford|41.8926|-95.2345|826|299|shape|FALSE|TRUE|America/Chicago|3|1840009164
+Osceola|Osceola|NE|Nebraska|31143|Polk|41.1781|-97.5498|826|345|shape|FALSE|TRUE|America/Chicago|3|1840009312
+Sheridan|Sheridan|MI|Michigan|26117|Montcalm|43.2086|-85.0739|825|289|shape|FALSE|TRUE|America/Detroit|3|1840010995
+New Summerfield|New Summerfield|TX|Texas|48073|Cherokee|31.9807|-95.1150|825|67|shape|FALSE|TRUE|America/Chicago|3|1840020791
+Bradbury|Bradbury|CA|California|06037|Los Angeles|34.1536|-117.9684|825|162|shape|FALSE|TRUE|America/Los_Angeles|3|1840019232
+Annawan|Annawan|IL|Illinois|17073|Henry|41.3958|-89.8882|825|149|shape|FALSE|TRUE|America/Chicago|3|1840010241
+Loma Linda|Loma Linda|MO|Missouri|29145|Newton|36.9858|-94.5922|824|89|shape|FALSE|TRUE|America/Chicago|3|1840009929
+Port Orford|Port Orford|OR|Oregon|41015|Curry|42.7497|-124.4973|824|204|shape|FALSE|TRUE|America/Los_Angeles|3|1840020079
+Ronda|Ronda|NC|North Carolina|37193|Wilkes|36.2217|-80.9431|824|293|shape|FALSE|TRUE|America/New_York|3|1840017720
+Swink|Swink|CO|Colorado|08089|Otero|38.0141|-103.6283|824|653.7|shape|FALSE|TRUE|America/Denver|3|1840022528
+Orrick|Orrick|MO|Missouri|29177|Ray|39.2133|-94.1254|824|238|shape|FALSE|TRUE|America/Chicago|3|1840009599
+Timber Lakes|Timber Lakes|UT|Utah|49051|Wasatch|40.4733|-111.2533|824|35|shape|FALSE|FALSE|America/Denver|3|1840037250
+Wedderburn|Wedderburn|OR|Oregon|41015|Curry|42.4328|-124.4232|824|301|shape|FALSE|FALSE|America/Los_Angeles|3|1840098078
+Floyd Hill|Floyd Hill|CO|Colorado|08019|Clear Creek|39.7217|-105.4313|824|50|shape|FALSE|TRUE|America/Denver|4|1840038713
+Weiner|Weiner|AR|Arkansas|05111|Poinsett|35.6197|-90.9054|823|232|shape|FALSE|TRUE|America/Chicago|3|1840015408
+Council|Council|ID|Idaho|16003|Adams|44.7328|-116.4376|823|301|shape|FALSE|TRUE|America/Boise|3|1840018584
+George|George|WA|Washington|53025|Grant|47.0846|-119.8600|823|230|shape|FALSE|TRUE|America/Los_Angeles|3|1840019814
+Hollow Creek|Hollow Creek|KY|Kentucky|21111|Jefferson|38.1526|-85.6244|823|802.9|shape|FALSE|TRUE|America/New_York|3|1840014306
+Patagonia|Patagonia|AZ|Arizona|04023|Santa Cruz|31.5436|-110.7478|823|246|shape|FALSE|TRUE|America/Phoenix|3|1840023118
+Brookport|Brookport|IL|Illinois|17127|Massac|37.1261|-88.6276|823|486|shape|FALSE|TRUE|America/Chicago|3|1840006448
+Hightsville|Hightsville|NC|North Carolina|37129|New Hanover|34.2667|-77.9344|823|217|shape|FALSE|FALSE|America/New_York|3|1840013627
+Pickett|Pickett|OK|Oklahoma|40123|Pontotoc|34.7795|-96.7755|822|98|shape|FALSE|FALSE|America/Chicago|3|1840096490
+Los Indios|Los Indios|TX|Texas|48061|Cameron|26.0493|-97.7351|822|169|shape|FALSE|TRUE|America/Chicago|3|1840022265
+Dufur|Dufur|OR|Oregon|41065|Wasco|45.4531|-121.1288|822|538|shape|FALSE|TRUE|America/Los_Angeles|3|1840018567
+Buffalo City|Buffalo City|WI|Wisconsin|55011|Buffalo|44.2203|-91.8579|822|193|shape|FALSE|TRUE|America/Chicago|3|1840002377
+Arizona Village|Arizona Village|AZ|Arizona|04015|Mohave|34.8546|-114.5895|822|199|shape|FALSE|FALSE|America/Phoenix|3|1840018338
+Melbourne Village|Melbourne Village|FL|Florida|12009|Brevard|28.0880|-80.6652|822|545|shape|FALSE|TRUE|America/New_York|3|1840017234
+Crowder|Crowder|MS|Mississippi|28119|Quitman|34.1729|-90.1376|822|695|shape|FALSE|TRUE|America/Chicago|3|1840016646
+Glenvar|Glenvar|VA|Virginia|51161|Roanoke|37.2760|-80.1257|821|227|shape|FALSE|FALSE|America/New_York|3|1840026859
+Glendale|Glendale|OR|Oregon|41019|Douglas|42.7381|-123.4294|821|808|shape|FALSE|TRUE|America/Los_Angeles|3|1840020031
+Yates City|Yates City|IL|Illinois|17095|Knox|40.7776|-90.0139|821|643|shape|FALSE|TRUE|America/Chicago|3|1840011768
+Chester Hill|Chester Hill|PA|Pennsylvania|42033|Clearfield|40.8903|-78.2293|821|714|shape|FALSE|TRUE|America/New_York|3|1840003489
+West Pittsburg|West Pittsburg|PA|Pennsylvania|42073|Lawrence|40.9310|-80.3591|821|462|shape|FALSE|FALSE|America/New_York|3|1840026380
+Bradley|Bradley|ME|Maine|23019|Penobscot|44.9127|-68.6246|821|155|shape|FALSE|FALSE|America/New_York|3|1840152983
+Winfall|Winfall|NC|North Carolina|37143|Perquimans|36.2105|-76.4548|820|137|shape|FALSE|TRUE|America/New_York|3|1840016100
+Forestville|Forestville|NY|New York|36013|Chautauqua|42.4691|-79.1755|820|299|shape|FALSE|FALSE|America/New_York|3|1840004565
+Quapaw|Quapaw|OK|Oklahoma|40115|Ottawa|36.9497|-94.7805|820|324|shape|FALSE|TRUE|America/Chicago|3|1840021617
+Chappell|Chappell|NE|Nebraska|31049|Deuel|41.0913|-102.4700|820|450|shape|FALSE|TRUE|America/Denver|3|1840007141
+Rutledge|Rutledge|PA|Pennsylvania|42045|Delaware|39.9010|-75.3274|820|2681.8|shape|FALSE|TRUE|America/New_York|2|1840000710
+Alapaha|Alapaha|GA|Georgia|13019|Berrien|31.3832|-83.2237|820|308|shape|FALSE|TRUE|America/New_York|3|1840015870
+Adams|Adams|MN|Minnesota|27099|Mower|43.5654|-92.7190|820|315|shape|FALSE|TRUE|America/Chicago|3|1840006829
+Killdeer|Killdeer|ND|North Dakota|38025|Dunn|47.3689|-102.7472|820|171|shape|FALSE|TRUE|America/Denver|3|1840000127
+Milltown|Milltown|IN|Indiana|18025|Crawford|38.3421|-86.2754|819|237|shape|FALSE|TRUE|America/Kentucky/Louisville|3|1840009819
+Faulkton|Faulkton|SD|South Dakota|46049|Faulk|45.0342|-99.1266|819|312|shape|FALSE|TRUE|America/Chicago|3|1840002119
+Green Harbor|Green Harbor|MA|Massachusetts|25023|Plymouth|42.0680|-70.6499|819|659.8|shape|FALSE|FALSE|America/New_York|3|1840031221
+St. Mary of the Woods|St. Mary of the Woods|IN|Indiana|18167|Vigo|39.5123|-87.4631|819|255|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840030014
+Lime Lake|Lime Lake|NY|New York|36009|Cattaraugus|42.4327|-78.4808|819|132|shape|FALSE|FALSE|America/New_York|3|1840024096
+Blairs|Blairs|VA|Virginia|51143|Pittsylvania|36.6958|-79.3774|819|91|shape|FALSE|FALSE|America/New_York|3|1840026886
+New England|New England|ND|North Dakota|38041|Hettinger|46.5408|-102.8669|819|641|shape|FALSE|TRUE|America/Denver|3|1840000222
+O'Donnell|O'Donnell|TX|Texas|48305|Lynn|32.9652|-101.8309|819|367|shape|FALSE|TRUE|America/Chicago|3|1840020674
+Rockport|Rockport|AR|Arkansas|05059|Hot Spring|34.4069|-92.8077|819|100|shape|FALSE|TRUE|America/Chicago|3|1840014698
+Aquasco|Aquasco|MD|Maryland|24033|Prince George's|38.5913|-76.7074|819|15|shape|FALSE|FALSE|America/New_York|3|1840024539
+York Haven|York Haven|PA|Pennsylvania|42133|York|40.1106|-76.7149|819|1039.4|shape|FALSE|TRUE|America/New_York|3|1840001474
+Hills|Hills|MN|Minnesota|27133|Rock|43.5277|-96.3594|819|502|shape|FALSE|TRUE|America/Chicago|3|1840006819
+Spring Valley|Spring Valley|KY|Kentucky|21111|Jefferson|38.2968|-85.6108|819|1240.9|shape|FALSE|TRUE|America/New_York|3|1840030808
+Woodsburgh|Woodsburgh|NY|New York|36059|Nassau|40.6216|-73.7068|818|590.6|shape|FALSE|TRUE|America/New_York|3|1840005334
+Enterprise|Enterprise|KS|Kansas|20041|Dickinson|38.9029|-97.1163|818|471|shape|FALSE|TRUE|America/Chicago|3|1840008556
+Alexis|Alexis|NC|North Carolina|37071|Gaston|35.3968|-81.1190|818|159|shape|FALSE|FALSE|America/New_York|3|1840089337
+Grindstone|Grindstone|PA|Pennsylvania|42051|Fayette|40.0219|-79.8231|818|240|shape|FALSE|FALSE|America/New_York|3|1840034999
+Alto|Alto|CA|California|06041|Marin|37.9056|-122.5186|818|2275.6|shape|FALSE|FALSE|America/Los_Angeles|2|1840027992
+Woodridge|Woodridge|NY|New York|36105|Sullivan|41.7122|-74.5741|818|188|shape|FALSE|TRUE|America/New_York|3|1840004792
+Maricopa Colony|Maricopa Colony|AZ|Arizona|04013|Maricopa|33.3626|-112.2267|818|57|shape|FALSE|TRUE|America/Phoenix|4|1840042770
+Cottonwood Falls|Cottonwood Falls|KS|Kansas|20017|Chase|38.3686|-96.5425|817|489|shape|FALSE|TRUE|America/Chicago|3|1840007497
+Titusville|Titusville|NJ|New Jersey|34021|Mercer|40.3087|-74.8767|817|629|shape|FALSE|FALSE|America/New_York|3|1840081433
+Newborn|Newborn|GA|Georgia|13217|Newton|33.5164|-83.6959|817|197|shape|FALSE|TRUE|America/New_York|3|1840016816
+Vineyard Lake|Vineyard Lake|MI|Michigan|26075|Jackson|42.0868|-84.2102|817|123|shape|FALSE|TRUE|America/Detroit|4|1840039593
+Chevak|Chevak|AK|Alaska|02158|Kusilvak|61.5295|-165.5941|817|275|shape|FALSE|TRUE|America/Nome|3|1840023322
+Maury City|Maury City|TN|Tennessee|47033|Crockett|35.8145|-89.2239|817|280|shape|FALSE|TRUE|America/Chicago|3|1840016235
+La Parguera|La Parguera|PR|Puerto Rico|72079|Lajas|17.9748|-67.0458|817|1198.6|shape|FALSE|FALSE|America/Puerto_Rico|3|1630035495
+Florence|Florence|TX|Texas|48491|Williamson|30.8408|-97.7921|816|344|shape|FALSE|TRUE|America/Chicago|3|1840020874
+Cumby|Cumby|TX|Texas|48223|Hopkins|33.1354|-95.8394|816|327|shape|FALSE|TRUE|America/Chicago|3|1840019405
+Alamo|Alamo|NM|New Mexico|35053|Socorro|34.4184|-107.5125|816|8|shape|FALSE|FALSE|America/Denver|3|1840017932
+San Ildefonso Pueblo|San Ildefonso Pueblo|NM|New Mexico|35049|Santa Fe|35.8955|-106.1225|816|71|shape|FALSE|FALSE|America/Denver|3|1840033706
+Johnson Park|Johnson Park|CA|California|06089|Shasta|40.9212|-121.6295|815|348|shape|FALSE|FALSE|America/Los_Angeles|3|1840139962
+Dexter|Dexter|OR|Oregon|41039|Lane|43.9188|-122.8220|815|171|shape|FALSE|FALSE|America/Los_Angeles|3|1840034681
+Stoddard|Stoddard|WI|Wisconsin|55123|Vernon|43.6624|-91.2179|815|493|shape|FALSE|TRUE|America/Chicago|3|1840002687
+Pocono Pines|Pocono Pines|PA|Pennsylvania|42089|Monroe|41.1162|-75.4588|815|60|shape|FALSE|FALSE|America/New_York|3|1840005173
+Garnavillo|Garnavillo|IA|Iowa|19043|Clayton|42.8667|-91.2362|815|333|shape|FALSE|TRUE|America/Chicago|3|1840008013
+Campbellsburg|Campbellsburg|IN|Indiana|18175|Washington|38.6514|-86.2613|815|317|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009791
+Roy|Roy|WA|Washington|53053|Pierce|46.9970|-122.5423|814|650|shape|FALSE|TRUE|America/Los_Angeles|3|1840019856
+Cleveland|Cleveland|NY|New York|36075|Oswego|43.2398|-75.8846|814|277|shape|FALSE|TRUE|America/New_York|3|1840004198
+Adair|Adair|IA|Iowa|19001|Adair|41.5004|-94.6434|814|141|shape|FALSE|TRUE|America/Chicago|3|1840029594
+Keysville|Keysville|VA|Virginia|51037|Charlotte|37.0390|-78.4804|814|267|shape|FALSE|TRUE|America/New_York|3|1840006466
+Eastview|Eastview|TN|Tennessee|47109|McNairy|35.0877|-88.5518|814|61|shape|FALSE|TRUE|America/Chicago|3|1840016410
+Science Hill|Science Hill|KY|Kentucky|21199|Pulaski|37.1741|-84.6329|814|410|shape|FALSE|TRUE|America/New_York|3|1840015256
+Ravensdale|Ravensdale|WA|Washington|53033|King|47.3589|-121.9781|814|253|shape|FALSE|FALSE|America/Los_Angeles|3|1840018412
+Wilton|Wilton|AL|Alabama|01117|Shelby|33.0813|-86.8799|813|327|shape|FALSE|TRUE|America/Chicago|3|1840016851
+Colfax|Colfax|IN|Indiana|18023|Clinton|40.1944|-86.6673|813|547.6|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009431
+Lafayette|Lafayette|VA|Virginia|51121|Montgomery|37.2330|-80.2051|813|492|shape|FALSE|FALSE|America/New_York|3|1840024790
+Elkton|Elkton|SD|South Dakota|46011|Brookings|44.2351|-96.4794|813|210|shape|FALSE|TRUE|America/Chicago|3|1840002510
+Tignall|Tignall|GA|Georgia|13317|Wilkes|33.8674|-82.7420|813|113|shape|FALSE|TRUE|America/New_York|3|1840016771
+Blackduck|Blackduck|MN|Minnesota|27007|Beltrami|47.7263|-94.5480|813|195|shape|FALSE|TRUE|America/Chicago|3|1840006601
+Cottondale|Cottondale|FL|Florida|12063|Jackson|30.7891|-85.3644|813|96|shape|FALSE|TRUE|America/Chicago|3|1840017150
+Sunsites|Sunsites|AZ|Arizona|04003|Cochise|31.9410|-109.8394|813|352|shape|FALSE|FALSE|America/Phoenix|3|1840151074
+Brady|Brady|WA|Washington|53027|Grays Harbor|47.0064|-123.5321|813|51|shape|FALSE|FALSE|America/Los_Angeles|3|1840017357
+Hato Viejo|Hato Viejo|PR|Puerto Rico|72039|Ciales|18.3605|-66.4813|813|162|shape|FALSE|FALSE|America/Puerto_Rico|3|1630126393
+Toppers|Toppers|OK|Oklahoma|40145|Wagoner|35.9656|-95.3201|812|135|shape|FALSE|FALSE|America/Chicago|3|1840096528
+Alburnett|Alburnett|IA|Iowa|19113|Linn|42.1488|-91.6205|812|414|shape|FALSE|TRUE|America/Chicago|3|1840006987
+Higginson|Higginson|AR|Arkansas|05145|White|35.1968|-91.7152|812|246|shape|FALSE|TRUE|America/Chicago|3|1840015430
+Hospers|Hospers|IA|Iowa|19167|Sioux|43.0722|-95.9039|812|622|shape|FALSE|TRUE|America/Chicago|3|1840006872
+Jonesburg|Jonesburg|MO|Missouri|29139|Montgomery|38.8546|-91.3028|812|215|shape|FALSE|TRUE|America/Chicago|3|1840008554
+Powderly|Powderly|KY|Kentucky|21177|Muhlenberg|37.2374|-87.1589|812|200|shape|FALSE|TRUE|America/Chicago|3|1840014379
+Albany|Albany|IL|Illinois|17195|Whiteside|41.7861|-90.2163|812|292|shape|FALSE|TRUE|America/Chicago|3|1840010175
+Hinckley|Hinckley|UT|Utah|49027|Millard|39.3336|-112.6736|812|62|shape|FALSE|TRUE|America/Denver|3|1840021456
+Peña Blanca|Pena Blanca|NM|New Mexico|35043|Sandoval|35.5709|-106.3319|812|45|shape|FALSE|FALSE|America/Denver|3|1840019063
+Hollow Rock|Hollow Rock|TN|Tennessee|47017|Carroll|36.0355|-88.2740|812|185|shape|FALSE|TRUE|America/Chicago|3|1840016179
+Flushing|Flushing|OH|Ohio|39013|Belmont|40.1481|-81.0647|812|510|shape|FALSE|TRUE|America/New_York|3|1840012385
+Lake Madison|Lake Madison|SD|South Dakota|46079|Lake|43.9593|-97.0210|811|66|shape|FALSE|TRUE|America/Chicago|4|1840040554
+Wessington Springs|Wessington Springs|SD|South Dakota|46073|Jerauld|44.0805|-98.5712|811|173|shape|FALSE|TRUE|America/Chicago|3|1840002528
+Indio Hills|Indio Hills|CA|California|06065|Riverside|33.8411|-116.2484|811|14|shape|FALSE|FALSE|America/Los_Angeles|3|1840025030
+Jasper|Jasper|AR|Arkansas|05101|Newton|36.0124|-93.1874|811|328|shape|FALSE|TRUE|America/Chicago|3|1840014492
+Lecompte|Lecompte|LA|Louisiana|22079|Rapides|31.0881|-92.4000|811|294|shape|FALSE|TRUE|America/Chicago|3|1840017099
+Spring Hill|Spring Hill|PA|Pennsylvania|42021|Cambria|40.3704|-78.6691|811|299|shape|FALSE|FALSE|America/New_York|3|1840005381
+Alden|Alden|IA|Iowa|19083|Hardin|42.5115|-93.3805|810|202|shape|FALSE|TRUE|America/Chicago|3|1840006961
+Deport|Deport|TX|Texas|48277|Lamar|33.5291|-95.3174|810|281|shape|FALSE|TRUE|America/Chicago|3|1840019330
+Lake Victoria|Lake Victoria|MI|Michigan|26037|Clinton|42.9168|-84.3749|810|380|shape|FALSE|TRUE|America/Detroit|3|1840039588
+New Site|New Site|AL|Alabama|01123|Tallapoosa|33.0282|-85.7801|810|31|shape|FALSE|TRUE|America/Chicago|3|1840016915
+Brantleyville|Brantleyville|AL|Alabama|01117|Shelby|33.2196|-86.8820|810|142|shape|FALSE|FALSE|America/Chicago|3|1840022963
+Indian Hills|Indian Hills|NM|New Mexico|35057|Torrance|34.9832|-106.1398|810|54|shape|FALSE|TRUE|America/Denver|4|1840040012
+Honalo|Honalo|HI|Hawaii|15001|Hawaii|19.5810|-155.8985|810|11|shape|FALSE|FALSE|Pacific/Honolulu|3|1840023195
+Wittmann|Wittmann|AZ|Arizona|04013|Maricopa|33.7749|-112.5250|810|324|shape|FALSE|FALSE|America/Phoenix|3|1840022928
+Prospect|Prospect|NC|North Carolina|37155|Robeson|34.7359|-79.2251|810|79|shape|FALSE|FALSE|America/New_York|3|1840033013
+Cheyenne|Cheyenne|OK|Oklahoma|40129|Roger Mills|35.6109|-99.6763|810|316|shape|FALSE|TRUE|America/Chicago|3|1840022709
+Pepin|Pepin|WI|Wisconsin|55091|Pepin|44.4425|-92.1481|809|432|shape|FALSE|TRUE|America/Chicago|3|1840002352
+Lexington|Lexington|AL|Alabama|01077|Lauderdale|34.9652|-87.3735|809|96|shape|FALSE|TRUE|America/Chicago|3|1840016504
+Fountain City|Fountain City|WI|Wisconsin|55011|Buffalo|44.1202|-91.6970|809|71|shape|FALSE|TRUE|America/Chicago|3|1840002378
+East Tawakoni|East Tawakoni|TX|Texas|48379|Rains|32.9011|-95.9397|809|175|shape|FALSE|TRUE|America/Chicago|3|1840020720
+Uniontown|Uniontown|KY|Kentucky|21225|Union|37.7732|-87.9318|809|367|shape|FALSE|TRUE|America/Chicago|3|1840015228
+Eulonia|Eulonia|GA|Georgia|13191|McIntosh|31.5254|-81.4320|808|96|shape|FALSE|FALSE|America/New_York|3|1840029193
+Buchanan Lake Village|Buchanan Lake Village|TX|Texas|48299|Llano|30.8565|-98.4378|808|209|shape|FALSE|FALSE|America/Chicago|3|1840025994
+Bentleyville|Bentleyville|OH|Ohio|39035|Cuyahoga|41.4121|-81.4121|808|122|shape|FALSE|TRUE|America/New_York|3|1840003398
+Callender Lake|Callender Lake|TX|Texas|48467|Van Zandt|32.3675|-95.6983|808|75|shape|FALSE|TRUE|America/Chicago|4|1840042520
+Pleasant Hill|Pleasant Hill|NC|North Carolina|37193|Wilkes|36.2580|-80.8904|808|120|shape|FALSE|FALSE|America/New_York|3|1840013341
+Hamel|Hamel|IL|Illinois|17119|Madison|38.8894|-89.8425|808|262|shape|FALSE|TRUE|America/Chicago|3|1840012791
+Westphalia|Westphalia|MI|Michigan|26037|Clinton|42.9303|-84.7981|808|280|shape|FALSE|TRUE|America/Detroit|3|1840011027
+McLean|McLean|IL|Illinois|17113|McLean|40.3136|-89.1686|808|264|shape|FALSE|TRUE|America/Chicago|3|1840011980
+Matador|Matador|TX|Texas|48345|Motley|34.0150|-100.8211|808|239|shape|FALSE|TRUE|America/Chicago|3|1840022881
+Blanchardville|Blanchardville|WI|Wisconsin|55065|Lafayette|42.8094|-89.8606|808|650|shape|FALSE|TRUE|America/Chicago|3|1840003097
+Wheelwright|Wheelwright|KY|Kentucky|21071|Floyd|37.3392|-82.7186|808|176|shape|FALSE|TRUE|America/New_York|3|1840015233
+Philadelphia|Philadelphia|TN|Tennessee|47105|Loudon|35.6791|-84.3999|808|200|shape|FALSE|TRUE|America/New_York|3|1840014513
+Millersburg|Millersburg|IN|Indiana|18039|Elkhart|41.5277|-85.6964|807|482|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009240
+Hopedale|Hopedale|IL|Illinois|17179|Tazewell|40.4233|-89.4214|807|353|shape|FALSE|TRUE|America/Chicago|3|1840011986
+East Barre|East Barre|VT|Vermont|50023|Washington|44.1500|-72.4498|807|117|shape|FALSE|FALSE|America/New_York|3|1840023971
+Tranquillity|Tranquillity|CA|California|06019|Fresno|36.6480|-120.2526|807|504|shape|FALSE|FALSE|America/Los_Angeles|3|1840018943
+Canyon City|Canyon City|OR|Oregon|41023|Grant|44.3931|-118.9494|807|221|shape|FALSE|TRUE|America/Los_Angeles|3|1840022349
+Earlville|Earlville|IA|Iowa|19055|Delaware|42.4827|-91.2702|807|565|shape|FALSE|TRUE|America/Chicago|3|1840008050
+Knik River|Knik River|AK|Alaska|02170|Matanuska-Susitna|61.4606|-148.9155|807|3|shape|FALSE|TRUE|America/Anchorage|4|1840075079
+Shellsburg|Shellsburg|IA|Iowa|19011|Benton|42.0929|-91.8712|806|393|shape|FALSE|TRUE|America/Chicago|3|1840000469
+Moca|Moca|PR|Puerto Rico|72099|Moca|18.3943|-67.1138|806|1576.2|shape|FALSE|FALSE|America/Puerto_Rico|3|1630035522
+Hessmer|Hessmer|LA|Louisiana|22009|Avoyelles|31.0534|-92.1214|806|376|shape|FALSE|TRUE|America/Chicago|3|1840018189
+Henning|Henning|MN|Minnesota|27111|Otter Tail|46.3234|-95.4424|806|94|shape|FALSE|TRUE|America/Chicago|3|1840006654
+Clyde|Clyde|KS|Kansas|20029|Cloud|39.5918|-97.4003|806|462|shape|FALSE|TRUE|America/Chicago|3|1840007325
+Offerman|Offerman|GA|Georgia|13229|Pierce|31.4088|-82.1132|806|95|shape|FALSE|TRUE|America/New_York|3|1840014958
+Grayland|Grayland|WA|Washington|53027|Grays Harbor|46.8304|-124.0898|806|45|shape|FALSE|FALSE|America/Los_Angeles|3|1840017360
+Ashkum|Ashkum|IL|Illinois|17075|Iroquois|40.8783|-87.9533|806|372|shape|FALSE|TRUE|America/Chicago|3|1840011854
+Pabellones|Pabellones|PR|Puerto Rico|72137|Toa Baja|18.4412|-66.2156|806|825.8|shape|FALSE|FALSE|America/Puerto_Rico|3|1630151538
+Gibbon|Gibbon|MN|Minnesota|27143|Sibley|44.5332|-94.5242|806|468|shape|FALSE|TRUE|America/Chicago|3|1840007866
+Lake Panorama|Lake Panorama|IA|Iowa|19077|Guthrie|41.7199|-94.4026|805|47|shape|FALSE|FALSE|America/Chicago|3|1840029702
+Hinton|Hinton|IA|Iowa|19149|Plymouth|42.6212|-96.2977|805|434|shape|FALSE|TRUE|America/Chicago|3|1840006897
+Hilltop Lakes|Hilltop Lakes|TX|Texas|48289|Leon|31.0755|-96.1915|805|36|shape|FALSE|FALSE|America/Chicago|3|1840025965
+Florence|Florence|MT|Montana|30081|Ravalli|46.6345|-114.0813|805|404|shape|FALSE|FALSE|America/Denver|3|1840017382
+Imboden|Imboden|AR|Arkansas|05075|Lawrence|36.1997|-91.1774|805|244|shape|FALSE|TRUE|America/Chicago|3|1840016132
+Patterson|Patterson|GA|Georgia|13229|Pierce|31.3853|-82.1373|805|117|shape|FALSE|TRUE|America/New_York|3|1840014959
+Cobb|Cobb|CA|California|06033|Lake|38.8356|-122.7230|805|62|shape|FALSE|FALSE|America/Los_Angeles|3|1840017546
+Story|Story|WY|Wyoming|56033|Sheridan|44.5731|-106.9142|805|43|shape|FALSE|FALSE|America/Denver|3|1840018597
+Fremont|Fremont|IA|Iowa|19123|Mahaska|41.2125|-92.4338|804|292|shape|FALSE|TRUE|America/Chicago|3|1840008223
+Readlyn|Readlyn|IA|Iowa|19017|Bremer|42.7037|-92.2250|804|732.0|shape|FALSE|TRUE|America/Chicago|3|1840009090
+Haxtun|Haxtun|CO|Colorado|08095|Phillips|40.6420|-102.6297|804|521|shape|FALSE|TRUE|America/Denver|3|1840021393
+New Kingstown|New Kingstown|PA|Pennsylvania|42041|Cumberland|40.2311|-77.0728|804|194|shape|FALSE|FALSE|America/New_York|3|1840005485
+Efland|Efland|NC|North Carolina|37135|Orange|36.0806|-79.1718|804|174|shape|FALSE|FALSE|America/New_York|3|1840025778
+Waleska|Waleska|GA|Georgia|13057|Cherokee|34.3172|-84.5499|804|196|shape|FALSE|TRUE|America/New_York|3|1840015573
+Drayton|Drayton|ND|North Dakota|38067|Pembina|48.5620|-97.1794|803|470|shape|FALSE|TRUE|America/Chicago|3|1840000013
+Longport|Longport|NJ|New Jersey|34001|Atlantic|39.3136|-74.5261|803|784|shape|FALSE|TRUE|America/New_York|3|1840003792
+Pearlington|Pearlington|MS|Mississippi|28045|Hancock|30.2492|-89.6048|803|33|shape|FALSE|FALSE|America/Chicago|3|1840013950
+Maben|Maben|MS|Mississippi|28105|Oktibbeha|33.5544|-89.0805|802|159|shape|FALSE|TRUE|America/Chicago|3|1840016843
+Wadley|Wadley|AL|Alabama|01111|Randolph|33.1239|-85.5683|802|212|shape|FALSE|TRUE|America/Chicago|3|1840016864
+Rockwood|Rockwood|PA|Pennsylvania|42111|Somerset|39.9157|-79.1574|802|502.4|shape|FALSE|TRUE|America/New_York|3|1840003744
+Blende|Blende|CO|Colorado|08101|Pueblo|38.2470|-104.5714|802|369|shape|FALSE|FALSE|America/Denver|3|1840024677
+Thompsontown|Thompsontown|PA|Pennsylvania|42067|Juniata|40.5658|-77.2361|801|550.6|shape|FALSE|TRUE|America/New_York|3|1840003622
+Sausal|Sausal|NM|New Mexico|35061|Valencia|34.6803|-106.7589|801|136|shape|FALSE|TRUE|America/Denver|4|1840040215
+Strawn|Strawn|TX|Texas|48363|Palo Pinto|32.5510|-98.4979|801|397|shape|FALSE|TRUE|America/Chicago|3|1840022039
+La Moille|La Moille|IL|Illinois|17011|Bureau|41.5299|-89.2833|801|267|shape|FALSE|TRUE|America/Chicago|3|1840011568
+Dewar|Dewar|OK|Oklahoma|40111|Okmulgee|35.4581|-95.9483|801|305|shape|FALSE|TRUE|America/Chicago|3|1840021714
+Inman Mills|Inman Mills|SC|South Carolina|45083|Spartanburg|35.0408|-82.1024|801|286|shape|FALSE|FALSE|America/New_York|3|1840013508
+Rock Spring|Rock Spring|GA|Georgia|13295|Walker|34.8147|-85.2389|800|106|shape|FALSE|FALSE|America/New_York|3|1840029214
+Hingham|Hingham|WI|Wisconsin|55117|Sheboygan|43.6465|-87.9151|800|115|shape|FALSE|FALSE|America/Chicago|3|1840025424
+Newton|Newton|UT|Utah|49005|Cache|41.8612|-111.9909|800|360|shape|FALSE|TRUE|America/Denver|3|1840022375
+Junction City|Junction City|OH|Ohio|39127|Perry|39.7217|-82.2998|800|480|shape|FALSE|TRUE|America/New_York|3|1840012477
+Betances|Betances|PR|Puerto Rico|72023|Cabo Rojo|18.0296|-67.1335|800|1216.3|shape|FALSE|FALSE|America/Puerto_Rico|3|1630023606
+Granite|Granite|UT|Utah|49035|Salt Lake|40.5686|-111.8011|800|283|shape|FALSE|FALSE|America/Denver|3|1840037156
+Grand Ridge|Grand Ridge|FL|Florida|12063|Jackson|30.7083|-85.0207|800|71|shape|FALSE|TRUE|America/Chicago|3|1840017151
+Keystone|Keystone|CO|Colorado|08117|Summit|39.5901|-105.9383|799|7|shape|FALSE|FALSE|America/Denver|3|1840017537
+Cranesville|Cranesville|PA|Pennsylvania|42049|Erie|41.9040|-80.3418|799|329|shape|FALSE|TRUE|America/New_York|3|1840000475
+Crossville|Crossville|IL|Illinois|17193|White|38.1626|-88.0643|799|481|shape|FALSE|TRUE|America/Chicago|3|1840012922
+Roby|Roby|TX|Texas|48151|Fisher|32.7460|-100.3795|799|428|shape|FALSE|TRUE|America/Chicago|3|1840020723
+Truesdale|Truesdale|MO|Missouri|29219|Warren|38.8124|-91.1220|799|240|shape|FALSE|TRUE|America/Chicago|3|1840010713
+Dauberville|Dauberville|PA|Pennsylvania|42011|Berks|40.4606|-75.9983|799|146|shape|FALSE|FALSE|America/New_York|3|1840034924
+Eden|Eden|WI|Wisconsin|55039|Fond du Lac|43.6928|-88.3642|799|513|shape|FALSE|TRUE|America/Chicago|3|1840002605
+Upper Bear Creek|Upper Bear Creek|CO|Colorado|08019|Clear Creek|39.6319|-105.4154|799|81|shape|FALSE|TRUE|America/Denver|4|1840038833
+New Kent|New Kent|VA|Virginia|51127|New Kent|37.5095|-76.9863|799|68|shape|FALSE|FALSE|America/New_York|3|1840026835
+South Cle Elum|South Cle Elum|WA|Washington|53037|Kittitas|47.1862|-120.9526|799|767|shape|FALSE|TRUE|America/Los_Angeles|3|1840022304
+Lost City|Lost City|OK|Oklahoma|40021|Cherokee|36.0006|-95.1223|799|13|shape|FALSE|FALSE|America/Chicago|3|1840034556
+Arrowhead Beach|Arrowhead Beach|NC|North Carolina|37041|Chowan|36.2266|-76.7021|799|504|shape|FALSE|FALSE|America/New_York|3|1840153099
+Dulac|Dulac|LA|Louisiana|22109|Terrebonne|29.3864|-90.7081|798|19|shape|FALSE|FALSE|America/Chicago|3|1840013116
+Teec Nos Pos|Teec Nos Pos|AZ|Arizona|04001|Apache|36.9221|-109.0753|798|21|shape|FALSE|FALSE|America/Denver|3|1840019007
+Millersburg|Millersburg|KY|Kentucky|21017|Bourbon|38.3040|-84.1450|798|752|shape|FALSE|TRUE|America/New_York|3|1840014313
+Gallatin Gateway|Gallatin Gateway|MT|Montana|30031|Gallatin|45.5899|-111.1953|798|52|shape|FALSE|FALSE|America/Denver|3|1840023880
+Moncure|Moncure|NC|North Carolina|37037|Chatham|35.6239|-79.0769|798|65|shape|FALSE|FALSE|America/New_York|3|1840025794
+Pilot Knob|Pilot Knob|MO|Missouri|29093|Iron|37.6236|-90.6455|798|344|shape|FALSE|TRUE|America/Chicago|3|1840009879
+Oilton|Oilton|OK|Oklahoma|40037|Creek|36.0827|-96.5815|798|272|shape|FALSE|TRUE|America/Chicago|3|1840020392
+Burr Oak|Burr Oak|MI|Michigan|26149|St. Joseph|41.8472|-85.3212|798|306|shape|FALSE|TRUE|America/Detroit|3|1840010157
+Bella Villa|Bella Villa|MO|Missouri|29189|St. Louis|38.5436|-90.2855|798|2566.0|shape|FALSE|TRUE|America/Chicago|2|1840007448
+Ossian|Ossian|IA|Iowa|19191|Winneshiek|43.1470|-91.7645|798|288|shape|FALSE|TRUE|America/Chicago|3|1840009041
+Brimfield|Brimfield|IL|Illinois|17143|Peoria|40.8379|-89.8827|797|374|shape|FALSE|TRUE|America/Chicago|3|1840010353
+Blacklake|Blacklake|CA|California|06079|San Luis Obispo|35.0497|-120.5387|797|294|shape|FALSE|TRUE|America/Los_Angeles|3|1840075635
+Mabel|Mabel|MN|Minnesota|27045|Fillmore|43.5198|-91.7680|797|639|shape|FALSE|TRUE|America/Chicago|3|1840009009
+Pocahontas|Pocahontas|IL|Illinois|17005|Bond|38.8234|-89.5394|797|392|shape|FALSE|TRUE|America/Chicago|3|1840012780
+Orangeville|Orangeville|IL|Illinois|17177|Stephenson|42.4659|-89.6469|797|455|shape|FALSE|TRUE|America/Chicago|3|1840011117
+Belmont|Belmont|NY|New York|36003|Allegany|42.2226|-78.0327|797|309|shape|FALSE|TRUE|America/New_York|3|1840004612
+Pentwater|Pentwater|MI|Michigan|26127|Oceana|43.7793|-86.4303|797|230|shape|FALSE|TRUE|America/Detroit|3|1840010958
+Allgood|Allgood|AL|Alabama|01009|Blount|33.9064|-86.5178|796|295|shape|FALSE|TRUE|America/Chicago|3|1840015599
+Fouke|Fouke|AR|Arkansas|05091|Miller|33.2622|-93.8852|796|226|shape|FALSE|TRUE|America/Chicago|3|1840013752
+Gilbertville|Gilbertville|IA|Iowa|19013|Black Hawk|42.4182|-92.2141|796|447.0|shape|FALSE|TRUE|America/Chicago|3|1840008063
+Foots Creek|Foots Creek|OR|Oregon|41029|Jackson|42.3845|-123.1408|796|50|shape|FALSE|FALSE|America/Los_Angeles|3|1840025459
+Elkville|Elkville|IL|Illinois|17077|Jackson|37.9100|-89.2367|796|400|shape|FALSE|TRUE|America/Chicago|3|1840012965
+Landfall|Landfall|MN|Minnesota|27163|Washington|44.9508|-92.9766|796|2020.4|shape|FALSE|TRUE|America/Chicago|2|1840007818
+Gobles|Gobles|MI|Michigan|26159|Van Buren|42.3617|-85.8774|796|297|shape|FALSE|TRUE|America/Detroit|3|1840003180
+Avon|Avon|SD|South Dakota|46009|Bon Homme|43.0052|-98.0593|795|473|shape|FALSE|TRUE|America/Chicago|3|1840003067
+Watson|Watson|IL|Illinois|17049|Effingham|39.0261|-88.5685|795|281|shape|FALSE|TRUE|America/Chicago|3|1840012743
+Frisco|Frisco|NC|North Carolina|37055|Dare|35.2437|-75.6018|795|63|shape|FALSE|FALSE|America/New_York|3|1840025782
+Los Héroes Comunidad|Los Heroes Comunidad|PR|Puerto Rico|72099|Moca|18.3916|-67.1186|795|570.3|shape|FALSE|FALSE|America/Puerto_Rico|3|1630143407
+Shueyville|Shueyville|IA|Iowa|19103|Johnson|41.8462|-91.6513|795|164|shape|FALSE|TRUE|America/Chicago|3|1840009228
+Aaronsburg|Aaronsburg|PA|Pennsylvania|42027|Centre|40.9042|-77.4513|795|346|shape|FALSE|FALSE|America/New_York|3|1840005152
+Wickliffe|Wickliffe|OK|Oklahoma|40097|Mayes|36.3120|-95.1074|795|32|shape|FALSE|TRUE|America/Chicago|4|1840074749
+Triadelphia|Triadelphia|WV|West Virginia|54069|Ohio|40.0483|-80.6230|794|455|shape|FALSE|TRUE|America/New_York|3|1840005512
+La Belle|La Belle|MO|Missouri|29111|Lewis|40.1166|-91.9146|794|451|shape|FALSE|TRUE|America/Chicago|3|1840008384
+Helena|Helena|MS|Mississippi|28059|Jackson|30.4881|-88.5056|794|73|shape|FALSE|FALSE|America/Chicago|3|1840013931
+Clarkrange|Clarkrange|TN|Tennessee|47049|Fentress|36.1857|-85.0096|794|30|shape|FALSE|FALSE|America/Chicago|3|1840025759
+New Florence|New Florence|MO|Missouri|29139|Montgomery|38.9092|-91.4529|794|101|shape|FALSE|TRUE|America/Chicago|3|1840008552
+McCammon|McCammon|ID|Idaho|16005|Bannock|42.6504|-112.1901|794|137|shape|FALSE|TRUE|America/Boise|3|1840020070
+Valley View|Valley View|TX|Texas|48097|Cooke|33.4859|-97.1601|794|128|shape|FALSE|TRUE|America/Chicago|4|1840023042
+Ellenboro|Ellenboro|NC|North Carolina|37161|Rutherford|35.3309|-81.7612|794|242|shape|FALSE|TRUE|America/New_York|3|1840016319
+Osmond|Osmond|NE|Nebraska|31139|Pierce|42.3583|-97.5990|794|384|shape|FALSE|TRUE|America/Chicago|3|1840009134
+Lancaster|Lancaster|MO|Missouri|29197|Schuyler|40.5238|-92.5314|794|206|shape|FALSE|TRUE|America/Chicago|3|1840008346
+Cuba|Cuba|NM|New Mexico|35043|Sandoval|36.0146|-106.9680|793|93|shape|FALSE|TRUE|America/Denver|3|1840022682
+White Swan|White Swan|WA|Washington|53077|Yakima|46.3770|-120.7382|793|114|shape|FALSE|FALSE|America/Los_Angeles|3|1840018464
+Green River|Green River|UT|Utah|49015|Emery|38.9935|-110.1723|793|11|shape|FALSE|TRUE|America/Denver|3|1840020216
+Fieldbrook|Fieldbrook|CA|California|06023|Humboldt|40.9723|-124.0250|793|29|shape|FALSE|FALSE|America/Los_Angeles|3|1840025519
+Paraje|Paraje|NM|New Mexico|35006|Cibola|35.0444|-107.4681|793|54|shape|FALSE|FALSE|America/Denver|3|1840019172
+Freeburg|Freeburg|PA|Pennsylvania|42109|Snyder|40.7625|-76.9408|793|560.8|shape|FALSE|TRUE|America/New_York|3|1840002796
+Viborg|Viborg|SD|South Dakota|46125|Turner|43.1722|-97.0824|793|590|shape|FALSE|TRUE|America/Chicago|3|1840002853
+Holly|Holly|CO|Colorado|08099|Prowers|38.0554|-102.1247|793|423|shape|FALSE|TRUE|America/Denver|3|1840021521
+Wiscon|Wiscon|FL|Florida|12053|Hernando|28.5409|-82.4664|793|363|shape|FALSE|FALSE|America/New_York|3|1840025148
+Geronimo|Geronimo|TX|Texas|48187|Guadalupe|29.6728|-97.9686|793|37|shape|FALSE|FALSE|America/Chicago|3|1840018262
+North|North|SC|South Carolina|45075|Orangeburg|33.6164|-81.1030|793|354|shape|FALSE|TRUE|America/New_York|3|1840016827
+Arlington|Arlington|WI|Wisconsin|55021|Columbia|43.3351|-89.3726|792|294|shape|FALSE|TRUE|America/Chicago|3|1840002702
+Cleveland|Cleveland|MN|Minnesota|27079|Le Sueur|44.3236|-93.8353|792|552|shape|FALSE|TRUE|America/Chicago|3|1840006788
+McIntosh|McIntosh|NM|New Mexico|35057|Torrance|34.8819|-106.0559|792|13|shape|FALSE|FALSE|America/Denver|3|1840026965
+Raymond|Raymond|IA|Iowa|19013|Black Hawk|42.4694|-92.2297|792|187|shape|FALSE|TRUE|America/Chicago|3|1840009105
+Fort Chiswell|Fort Chiswell|VA|Virginia|51197|Wythe|36.9444|-80.9577|792|22|shape|FALSE|FALSE|America/New_York|3|1840037378
+Mountainaire|Mountainaire|AZ|Arizona|04005|Coconino|35.0921|-111.6493|792|29|shape|FALSE|FALSE|America/Phoenix|3|1840018968
+Kernville|Kernville|CA|California|06029|Kern|35.7533|-118.4321|791|24|shape|FALSE|FALSE|America/Los_Angeles|3|1840017822
+Keiser|Keiser|AR|Arkansas|05093|Mississippi|35.6740|-90.0958|791|409.7|shape|FALSE|TRUE|America/Chicago|3|1840014502
+Deshler|Deshler|NE|Nebraska|31169|Thayer|40.1396|-97.7233|791|601|shape|FALSE|TRUE|America/Chicago|3|1840007251
+Summerton|Summerton|SC|South Carolina|45027|Clarendon|33.6013|-80.3527|791|225|shape|FALSE|TRUE|America/New_York|3|1840016787
+Morrill|Morrill|NE|Nebraska|31157|Scotts Bluff|41.9640|-103.9249|791|502|shape|FALSE|TRUE|America/Denver|3|1840011396
+Belle Terre|Belle Terre|NY|New York|36103|Suffolk|40.9607|-73.0672|791|345|shape|FALSE|TRUE|America/New_York|3|1840005143
+Grove City|Grove City|MN|Minnesota|27093|Meeker|45.1481|-94.6815|791|446|shape|FALSE|TRUE|America/Chicago|3|1840000278
+Meadow Vale|Meadow Vale|KY|Kentucky|21111|Jefferson|38.2833|-85.5725|791|1810.1|shape|FALSE|TRUE|America/New_York|3|1840030803
+Wickett|Wickett|TX|Texas|48475|Ward|31.5673|-103.0060|791|433|shape|FALSE|TRUE|America/Chicago|3|1840023126
+Norris Canyon|Norris Canyon|CA|California|06013|Contra Costa|37.7457|-121.9881|790|84|shape|FALSE|TRUE|America/Los_Angeles|4|1840038347
+Pleasantville|Pleasantville|PA|Pennsylvania|42121|Venango|41.5935|-79.5808|790|320|shape|FALSE|TRUE|America/New_York|3|1840003427
+Cedar Grove|Cedar Grove|NM|New Mexico|35049|Santa Fe|35.1788|-106.1728|790|23|shape|FALSE|FALSE|America/Denver|3|1840017768
+Jetmore|Jetmore|KS|Kansas|20083|Hodgeman|38.0301|-99.9098|790|72|shape|FALSE|TRUE|America/Chicago|3|1840008670
+McKenzie|McKenzie|AL|Alabama|01013|Butler|31.5429|-86.7246|790|81|shape|FALSE|TRUE|America/Chicago|3|1840017055
+McRoberts|McRoberts|KY|Kentucky|21133|Letcher|37.2132|-82.6687|790|54|shape|FALSE|FALSE|America/New_York|3|1840013257
+Dexter|Dexter|NY|New York|36045|Jefferson|44.0111|-76.0425|790|458|shape|FALSE|TRUE|America/New_York|3|1840004129
+Waynoka|Waynoka|OK|Oklahoma|40151|Woods|36.5849|-98.8776|789|303|shape|FALSE|TRUE|America/Chicago|3|1840021595
+Plantersville|Plantersville|MS|Mississippi|28081|Lee|34.2103|-88.6655|789|145|shape|FALSE|TRUE|America/Chicago|3|1840016650
+Cheneyville|Cheneyville|LA|Louisiana|22079|Rapides|31.0110|-92.2900|789|299|shape|FALSE|TRUE|America/Chicago|3|1840017100
+Leighton|Leighton|AL|Alabama|01033|Colbert|34.6941|-87.5282|789|141|shape|FALSE|TRUE|America/Chicago|3|1840016546
+Riegelsville|Riegelsville|PA|Pennsylvania|42017|Bucks|40.5965|-75.1988|789|302|shape|FALSE|TRUE|America/New_York|3|1840001312
+Livingston|Livingston|IL|Illinois|17119|Madison|38.9684|-89.7641|789|292|shape|FALSE|TRUE|America/Chicago|3|1840012793
+New Hartford|New Hartford|IA|Iowa|19023|Butler|42.5682|-92.6214|789|491|shape|FALSE|TRUE|America/Chicago|3|1840008039
+St. Joseph|St. Joseph|LA|Louisiana|22107|Tensas|31.9203|-91.2400|789|342|shape|FALSE|TRUE|America/Chicago|3|1840018126
+Bartelso|Bartelso|IL|Illinois|17027|Clinton|38.5371|-89.4672|789|707|shape|FALSE|TRUE|America/Chicago|3|1840012852
+Penn State Berks|Penn State Berks|PA|Pennsylvania|42011|Berks|40.3612|-75.9760|789|731|shape|FALSE|FALSE|America/New_York|3|1840153035
+Philip|Philip|SD|South Dakota|46055|Haakon|44.0407|-101.6645|788|512|shape|FALSE|TRUE|America/Denver|3|1840000301
+Norborne|Norborne|MO|Missouri|29033|Carroll|39.3024|-93.6759|788|469|shape|FALSE|TRUE|America/Chicago|3|1840008462
+Paradise|Paradise|UT|Utah|49005|Cache|41.5683|-111.8334|788|210|shape|FALSE|TRUE|America/Denver|3|1840022376
+Menno|Menno|SD|South Dakota|46067|Hutchinson|43.2386|-97.5774|788|584|shape|FALSE|TRUE|America/Chicago|3|1840002860
+Hamden|Hamden|OH|Ohio|39163|Vinton|39.1592|-82.5243|788|553|shape|FALSE|TRUE|America/New_York|3|1840012686
+Latimer|Latimer|IA|Iowa|19069|Franklin|42.7630|-93.3658|788|124|shape|FALSE|TRUE|America/Chicago|3|1840008036
+Madison|Madison|KS|Kansas|20073|Greenwood|38.1336|-96.1372|788|521|shape|FALSE|TRUE|America/Chicago|3|1840009760
+Napoleon|Napoleon|ND|North Dakota|38047|Logan|46.5039|-99.7683|787|219|shape|FALSE|TRUE|America/Chicago|3|1840000211
+Twinsburg Heights|Twinsburg Heights|OH|Ohio|39153|Summit|41.3064|-81.4579|787|377.1|shape|FALSE|FALSE|America/New_York|3|1840034398
+McClure|McClure|OH|Ohio|39069|Henry|41.3709|-83.9415|787|610|shape|FALSE|TRUE|America/New_York|3|1840011609
+Big Wells|Big Wells|TX|Texas|48127|Dimmit|28.5699|-99.5702|787|547|shape|FALSE|TRUE|America/Chicago|3|1840019701
+Wadsworth|Wadsworth|NV|Nevada|32031|Washoe|39.6322|-119.2901|787|81|shape|FALSE|FALSE|America/Los_Angeles|3|1840018710
+St. Charles|St. Charles|IA|Iowa|19121|Madison|41.2872|-93.8075|787|489|shape|FALSE|TRUE|America/Chicago|3|1840009290
+Allentown|Allentown|FL|Florida|12113|Santa Rosa|30.7745|-87.0822|787|10|shape|FALSE|FALSE|America/Chicago|3|1840025108
+Atlantic Mine|Atlantic Mine|MI|Michigan|26061|Houghton|47.1037|-88.6281|787|275|shape|FALSE|FALSE|America/Detroit|3|1840070467
+Lasara|Lasara|TX|Texas|48489|Willacy|26.4635|-97.9087|787|210|shape|FALSE|FALSE|America/Chicago|3|1840018323
+Genoa|Genoa|NV|Nevada|32005|Douglas|39.0256|-119.8309|786|33|shape|FALSE|FALSE|America/Los_Angeles|3|1840024555
+Bloomsbury|Bloomsbury|NJ|New Jersey|34019|Hunterdon|40.6537|-75.0840|786|325|shape|FALSE|TRUE|America/New_York|3|1840001037
+Mount Vernon|Mount Vernon|OR|Oregon|41023|Grant|44.4169|-119.1132|786|444|shape|FALSE|TRUE|America/Los_Angeles|3|1840019982
+McConnell|McConnell|WV|West Virginia|54045|Logan|37.8282|-81.9652|786|194.5|shape|FALSE|FALSE|America/New_York|3|1840038271
+Minersville|Minersville|UT|Utah|49001|Beaver|38.2333|-112.9602|785|139|shape|FALSE|TRUE|America/Denver|3|1840022508
+Attapulgus|Attapulgus|GA|Georgia|13087|Decatur|30.7495|-84.4839|785|380|shape|FALSE|TRUE|America/New_York|3|1840013898
+Greenville|Greenville|CA|California|06063|Plumas|40.1336|-120.9454|785|37|shape|FALSE|FALSE|America/Los_Angeles|3|1840017519
+Jewett|Jewett|TX|Texas|48289|Leon|31.3627|-96.1455|785|147|shape|FALSE|TRUE|America/Chicago|3|1840019541
+St. Ignatius|St. Ignatius|MT|Montana|30047|Lake|47.3187|-114.0956|785|568|shape|FALSE|TRUE|America/Denver|3|1840021092
+Milan|Milan|GA|Georgia|13271|Telfair|32.0194|-83.0631|785|97|shape|FALSE|TRUE|America/New_York|3|1840014922
+Ubly|Ubly|MI|Michigan|26063|Huron|43.7082|-82.9356|785|230|shape|FALSE|TRUE|America/Detroit|3|1840013154
+Grayhawk|Grayhawk|MO|Missouri|29186|Ste. Genevieve|37.9310|-90.2390|785|69|shape|FALSE|TRUE|America/Chicago|4|1840042719
+Aynor|Aynor|SC|South Carolina|45051|Horry|34.0002|-79.2071|785|168|shape|FALSE|TRUE|America/New_York|3|1840015593
+Sadsburyville|Sadsburyville|PA|Pennsylvania|42029|Chester|39.9830|-75.8937|785|868.7|shape|FALSE|FALSE|America/New_York|3|1840035182
+Valle Hill|Valle Hill|PR|Puerto Rico|72029|Canóvanas|18.3953|-65.8940|785|3226.5|shape|FALSE|FALSE|America/Puerto_Rico|2|1630149263
+Russellville|Russellville|TN|Tennessee|47063|Hamblen|36.2580|-83.1966|785|291|shape|FALSE|FALSE|America/New_York|3|1840036094
+Paragon Estates|Paragon Estates|CO|Colorado|08013|Boulder|39.9802|-105.1812|785|180|shape|FALSE|FALSE|America/Denver|3|1840028442
+Lyons|Lyons|MI|Michigan|26067|Ionia|42.9834|-84.9456|784|248|shape|FALSE|TRUE|America/Detroit|3|1840011019
+Mullan|Mullan|ID|Idaho|16079|Shoshone|47.4687|-115.7963|784|365|shape|FALSE|TRUE|America/Los_Angeles|3|1840019798
+Kinston|Kinston|AL|Alabama|01031|Coffee|31.2200|-86.1705|784|61|shape|FALSE|TRUE|America/Chicago|3|1840017090
+Lakeport|Lakeport|MI|Michigan|26147|St. Clair|43.1072|-82.4937|784|292|shape|FALSE|FALSE|America/Detroit|3|1840031753
+Cleveland|Cleveland|MO|Missouri|29037|Cass|38.6788|-94.5980|784|204|shape|FALSE|TRUE|America/Chicago|3|1840007460
+Newell|Newell|SD|South Dakota|46019|Butte|44.7174|-103.4183|784|299|shape|FALSE|TRUE|America/Denver|3|1840000289
+Elgin|Elgin|NE|Nebraska|31003|Antelope|41.9831|-98.0828|783|415|shape|FALSE|TRUE|America/Chicago|3|1840008088
+Port Gamble Tribal Community|Port Gamble Tribal Community|WA|Washington|53035|Kitsap|47.8488|-122.5571|783|71|shape|FALSE|TRUE|America/Los_Angeles|4|1840042014
+Hatton|Hatton|ND|North Dakota|38097|Traill|47.6369|-97.4584|783|542|shape|FALSE|TRUE|America/Chicago|3|1840000134
+North Courtland|North Courtland|AL|Alabama|01079|Lawrence|34.6788|-87.3083|783|456|shape|FALSE|TRUE|America/Chicago|3|1840016592
+Coahoma|Coahoma|TX|Texas|48227|Howard|32.2956|-101.3089|783|245|shape|FALSE|TRUE|America/Chicago|3|1840023053
+Middle Amana|Middle Amana|IA|Iowa|19095|Iowa|41.7948|-91.9015|783|310|shape|FALSE|FALSE|America/Chicago|3|1840026250
+Candlewood Lake|Candlewood Lake|OH|Ohio|39117|Morrow|40.6214|-82.7764|783|130|shape|FALSE|TRUE|America/New_York|4|1840042965
+Cornish|Cornish|ME|Maine|23031|York|43.8005|-70.7994|783|99|shape|FALSE|FALSE|America/New_York|3|1840153002
+Gouldsboro|Gouldsboro|PA|Pennsylvania|42127|Wayne|41.2429|-75.4449|782|116|shape|FALSE|FALSE|America/New_York|3|1840026239
+Davis|Davis|WV|West Virginia|54093|Tucker|39.1266|-79.4609|782|165|shape|FALSE|TRUE|America/New_York|3|1840005890
+Danville|Danville|WV|West Virginia|54005|Boone|38.0808|-81.8342|782|282|shape|FALSE|TRUE|America/New_York|3|1840006306
+Arrington|Arrington|VA|Virginia|51125|Nelson|37.6744|-78.8928|782|28|shape|FALSE|FALSE|America/New_York|3|1840024712
+Trimble|Trimble|TN|Tennessee|47045|Dyer|36.2020|-89.1879|782|467|shape|FALSE|TRUE|America/Chicago|3|1840016160
+Bigelow Corners|Bigelow Corners|CT|Connecticut|09001|Fairfield|41.4694|-73.5057|782|450|shape|FALSE|FALSE|America/New_York|3|1840147314
+Meriden|Meriden|KS|Kansas|20087|Jefferson|39.1897|-95.5680|781|398|shape|FALSE|TRUE|America/Chicago|3|1840008505
+Watauga|Watauga|TN|Tennessee|47019|Carter|36.3687|-82.2919|781|342|shape|FALSE|TRUE|America/New_York|3|1840015278
+Newtonville|Newtonville|NJ|New Jersey|34001|Atlantic|39.5633|-74.8559|781|95|shape|FALSE|FALSE|America/New_York|3|1840081120
+Rockford|Rockford|TN|Tennessee|47009|Blount|35.8328|-83.9358|781|94|shape|FALSE|TRUE|America/New_York|3|1840014517
+Roff|Roff|OK|Oklahoma|40123|Pontotoc|34.6286|-96.8412|781|326|shape|FALSE|TRUE|America/Chicago|3|1840021837
+Jennings|Jennings|FL|Florida|12047|Hamilton|30.5968|-83.1070|781|113|shape|FALSE|TRUE|America/New_York|3|1840017188
+Millwood|Millwood|NY|New York|36119|Westchester|41.1947|-73.7964|781|500|shape|FALSE|FALSE|America/New_York|3|1840033915
+Milo|Milo|IA|Iowa|19181|Warren|41.2892|-93.4403|781|496|shape|FALSE|TRUE|America/Chicago|3|1840008214
+Underhill Flats|Underhill Flats|VT|Vermont|50007|Chittenden|44.5232|-72.9463|781|403|shape|FALSE|FALSE|America/New_York|3|1840152976
+Eads|Eads|CO|Colorado|08061|Kiowa|38.4814|-102.7797|780|630|shape|FALSE|TRUE|America/Denver|3|1840021495
+Gray Court|Gray Court|SC|South Carolina|45059|Laurens|34.6079|-82.1143|780|165|shape|FALSE|TRUE|America/New_York|3|1840016594
+Antelope|Antelope|SD|South Dakota|46121|Todd|43.3087|-100.6306|780|131|shape|FALSE|FALSE|America/Chicago|3|1840004261
+Ventura|Ventura|NM|New Mexico|35029|Luna|32.2438|-107.6832|780|55|shape|FALSE|TRUE|America/Denver|4|1840040219
+Hebron|Hebron|ND|North Dakota|38059|Morton|46.9023|-102.0444|780|200|shape|FALSE|TRUE|America/North_Dakota/New_Salem|3|1840000198
+Summersville|Summersville|KY|Kentucky|21087|Green|37.3265|-85.5430|780|104|shape|FALSE|FALSE|America/Chicago|3|1840026853
+Happy Valley|Happy Valley|NM|New Mexico|35015|Eddy|32.4236|-104.2903|780|140|shape|FALSE|TRUE|America/Denver|4|1840040078
+Turbotville|Turbotville|PA|Pennsylvania|42097|Northumberland|41.1019|-76.7694|779|666|shape|FALSE|TRUE|America/New_York|3|1840000852
+Raymond|Raymond|MN|Minnesota|27067|Kandiyohi|45.0184|-95.2367|779|339|shape|FALSE|TRUE|America/Chicago|3|1840008910
+Northwood|Northwood|ND|North Dakota|38035|Grand Forks|47.7384|-97.5707|779|248|shape|FALSE|TRUE|America/Chicago|3|1840000106
+Beaver Springs|Beaver Springs|PA|Pennsylvania|42109|Snyder|40.7448|-77.2168|779|222|shape|FALSE|FALSE|America/New_York|3|1840005359
+El Paso|El Paso|AR|Arkansas|05145|White|35.1153|-92.0812|779|72|shape|FALSE|FALSE|America/Chicago|3|1840001765
+Saluda|Saluda|NC|North Carolina|37149|Polk|35.2375|-82.3469|779|193|shape|FALSE|TRUE|America/New_York|3|1840015459
+Bunnlevel|Bunnlevel|NC|North Carolina|37085|Harnett|35.3100|-78.7725|779|39|shape|FALSE|FALSE|America/New_York|3|1840024949
+Meyers Lake|Meyers Lake|OH|Ohio|39151|Stark|40.8159|-81.4165|778|1307.9|shape|FALSE|TRUE|America/New_York|3|1840011915
+Hermitage|Hermitage|MO|Missouri|29085|Hickory|37.9443|-93.3257|778|231|shape|FALSE|TRUE|America/Chicago|3|1840007554
+Laurel|Laurel|IN|Indiana|18047|Franklin|39.5017|-85.1877|778|461.7|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009596
+South Mount Vernon|South Mount Vernon|OH|Ohio|39083|Knox|40.3823|-82.5018|778|594|shape|FALSE|FALSE|America/New_York|3|1840093221
+Wataga|Wataga|IL|Illinois|17095|Knox|41.0253|-90.2754|778|362|shape|FALSE|TRUE|America/Chicago|3|1840011770
+Northwest|Northwest|NC|North Carolina|37019|Brunswick|34.3160|-78.1448|778|41|shape|FALSE|TRUE|America/New_York|3|1840014706
+Woods Bay|Woods Bay|MT|Montana|30047|Lake|48.0083|-114.0613|778|220|shape|FALSE|FALSE|America/Denver|3|1840018397
+Hoffman|Hoffman|NC|North Carolina|37153|Richmond|35.0313|-79.5491|778|88|shape|FALSE|TRUE|America/New_York|3|1840016473
+Dover|Dover|ID|Idaho|16017|Bonner|48.2606|-116.6098|778|95|shape|FALSE|TRUE|America/Los_Angeles|3|1840018364
+Montgomery|Montgomery|LA|Louisiana|22043|Grant|31.6677|-92.8877|778|145|shape|FALSE|TRUE|America/Chicago|3|1840017068
+Quebrada|Quebrada|PR|Puerto Rico|72027|Camuy|18.3602|-66.8353|778|998.1|shape|FALSE|FALSE|America/Puerto_Rico|3|1630023552
+Oneida|Oneida|IL|Illinois|17095|Knox|41.0722|-90.2247|778|393|shape|FALSE|TRUE|America/Chicago|3|1840009351
+Oak Creek|Oak Creek|CO|Colorado|08107|Routt|40.2741|-106.9575|778|478.2|shape|FALSE|TRUE|America/Denver|3|1840022402
+La Puerta|La Puerta|TX|Texas|48427|Starr|26.3468|-98.7505|778|687.7|shape|FALSE|FALSE|America/Chicago|3|1840018317
+Rafael Hernández|Rafael Hernandez|PR|Puerto Rico|72005|Aguadilla|18.4718|-67.0787|778|1525.0|shape|FALSE|FALSE|America/Puerto_Rico|3|1630035490
+Orebank|Orebank|TN|Tennessee|47163|Sullivan|36.5560|-82.4642|778|341|shape|FALSE|FALSE|America/New_York|3|1840110323
+Tecumseh|Tecumseh|IN|Indiana|18167|Vigo|39.5654|-87.4326|778|86|shape|FALSE|FALSE|America/Indiana/Indianapolis|3|1840026642
+Lanesboro|Lanesboro|MN|Minnesota|27045|Fillmore|43.7171|-91.9719|778|233|shape|FALSE|TRUE|America/Chicago|3|1840007940
+Sanbornville|Sanbornville|NH|New Hampshire|33003|Carroll|43.5525|-71.0297|778|186|shape|FALSE|FALSE|America/New_York|3|1840026135
+Loreauville|Loreauville|LA|Louisiana|22045|Iberia|30.0602|-91.7378|778|673|shape|FALSE|TRUE|America/Chicago|3|1840018258
+Johnson|Johnson|OK|Oklahoma|40125|Pottawatomie|35.4064|-96.8444|777|67|shape|FALSE|TRUE|America/Chicago|3|1840021789
+Shenandoah Shores|Shenandoah Shores|VA|Virginia|51187|Warren|38.9621|-78.1414|777|309|shape|FALSE|FALSE|America/New_York|3|1840026698
+Polk|Polk|PA|Pennsylvania|42121|Venango|41.3690|-79.9311|777|147|shape|FALSE|TRUE|America/New_York|3|1840003428
+Newman|Newman|IL|Illinois|17041|Douglas|39.7970|-87.9878|777|489|shape|FALSE|TRUE|America/Chicago|3|1840008437
+Mound City|Mound City|IL|Illinois|17153|Pulaski|37.0854|-89.1628|777|444|shape|FALSE|TRUE|America/Chicago|3|1840008774
+Laytonville|Laytonville|CA|California|06045|Mendocino|39.6715|-123.4945|777|55|shape|FALSE|FALSE|America/Los_Angeles|3|1840017534
+Sebeka|Sebeka|MN|Minnesota|27159|Wadena|46.6292|-95.0879|777|121|shape|FALSE|TRUE|America/Chicago|3|1840008843
+Bertrand|Bertrand|MO|Missouri|29133|Mississippi|36.9081|-89.4500|777|364|shape|FALSE|TRUE|America/Chicago|3|1840007649
+Houtzdale|Houtzdale|PA|Pennsylvania|42033|Clearfield|40.8251|-78.3511|777|648.0|shape|FALSE|TRUE|America/New_York|3|1840003496
+Siren|Siren|WI|Wisconsin|55013|Burnett|45.7826|-92.3823|777|250|shape|FALSE|TRUE|America/Chicago|3|1840001993
+Tucker|Tucker|MS|Mississippi|28099|Neshoba|32.7080|-89.0498|777|77|shape|FALSE|FALSE|America/Chicago|3|1840013799
+Hobson City|Hobson City|AL|Alabama|01015|Calhoun|33.6148|-85.8561|777|286|shape|FALSE|TRUE|America/Chicago|3|1840016781
+Tonica|Tonica|IL|Illinois|17099|LaSalle|41.2159|-89.0702|777|220|shape|FALSE|TRUE|America/Chicago|3|1840011541
+Calumet|Calumet|MI|Michigan|26061|Houghton|47.2478|-88.4535|776|1181.3|shape|FALSE|TRUE|America/Detroit|3|1840010907
+Hilltop|Hilltop|WV|West Virginia|54019|Fayette|37.9392|-81.1526|776|457|shape|FALSE|FALSE|America/New_York|3|1840038140
+Varnamtown|Varnamtown|NC|North Carolina|37019|Brunswick|33.9430|-78.2363|776|339|shape|FALSE|TRUE|America/New_York|3|1840016686
+Hailesboro|Hailesboro|NY|New York|36089|St. Lawrence|44.3097|-75.4356|776|63|shape|FALSE|FALSE|America/New_York|3|1840025338
+Fallston|Fallston|NC|North Carolina|37045|Cleveland|35.4288|-81.5023|776|138|shape|FALSE|TRUE|America/New_York|3|1840016335
+Tekoa|Tekoa|WA|Washington|53075|Whitman|47.2248|-117.0731|776|244|shape|FALSE|TRUE|America/Los_Angeles|3|1840021135
+Kivalina|Kivalina|AK|Alaska|02188|Northwest Arctic|67.7330|-164.5212|776|183|shape|FALSE|TRUE|America/Nome|3|1840023492
+Pine Brook Hill|Pine Brook Hill|CO|Colorado|08013|Boulder|40.0462|-105.3097|776|98|shape|FALSE|FALSE|America/Denver|3|1840028521
+Nelson|Nelson|AZ|Arizona|04019|Pima|32.4298|-111.2649|775|627|shape|FALSE|FALSE|America/Phoenix|3|1840137559
+Arena|Arena|WI|Wisconsin|55049|Iowa|43.1636|-89.9103|775|259|shape|FALSE|TRUE|America/Chicago|3|1840002953
+Hoffman|Hoffman|IL|Illinois|17027|Clinton|38.5404|-89.2644|775|590|shape|FALSE|TRUE|America/Chicago|3|1840012854
+West Concord|West Concord|MN|Minnesota|27039|Dodge|44.1529|-92.8995|775|276|shape|FALSE|TRUE|America/Chicago|3|1840010028
+Wallowa|Wallowa|OR|Oregon|41063|Wallowa|45.5704|-117.5286|775|489|shape|FALSE|TRUE|America/Los_Angeles|3|1840021197
+Everson|Everson|PA|Pennsylvania|42051|Fayette|40.0907|-79.5871|775|682.5|shape|FALSE|TRUE|America/New_York|3|1840001504
+Chilchinbito|Chilchinbito|AZ|Arizona|04017|Navajo|36.5027|-110.0512|774|12|shape|FALSE|FALSE|America/Denver|3|1840017655
+Stagecoach|Stagecoach|TX|Texas|48339|Montgomery|30.1438|-95.7079|774|259|shape|FALSE|TRUE|America/Chicago|3|1840023140
+Orient|Orient|OR|Oregon|41051|Multnomah|45.4691|-122.3545|774|315|shape|FALSE|FALSE|America/Los_Angeles|3|1840097768
+Sullivan|Sullivan|OH|Ohio|39005|Ashland|41.0280|-82.2212|774|72|shape|FALSE|FALSE|America/New_York|3|1840092394
+Leesburg|Leesburg|IN|Indiana|18085|Kosciusko|41.3307|-85.8490|774|410.8|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009305
+Birnamwood|Birnamwood|WI|Wisconsin|55115|Shawano|44.9319|-89.2094|774|135|shape|FALSE|TRUE|America/Chicago|3|1840002262
+Fort Johnson|Fort Johnson|NY|New York|36057|Montgomery|42.9591|-74.2381|774|404|shape|FALSE|TRUE|America/New_York|3|1840004401
+Clarks Hill|Clarks Hill|IN|Indiana|18157|Tippecanoe|40.2472|-86.7243|774|398.0|shape|FALSE|TRUE|America/Indiana/Indianapolis|3|1840009425
+Ogden|Ogden|IL|Illinois|17019|Champaign|40.1150|-87.9563|773|507|shape|FALSE|TRUE|America/Chicago|3|1840012233
+Springer|Springer|NM|New Mexico|35007|Colfax|36.3623|-104.5997|773|135|shape|FALSE|TRUE|America/Denver|3|1840022640
+Swansea|Swansea|SC|South Carolina|45063|Lexington|33.7397|-81.1052|773|143|shape|FALSE|TRUE|America/New_York|3|1840016729
+Reynolds|Reynolds|GA|Georgia|13269|Taylor|32.5608|-84.0943|773|149|shape|FALSE|TRUE|America/New_York|3|1840014879
+St. Lucie Village|St. Lucie Village|FL|Florida|12111|St. Lucie|27.4967|-80.3417|773|332|shape|FALSE|TRUE|America/New_York|3|1840028959
+Knoxville|Knoxville|PA|Pennsylvania|42117|Tioga|41.9605|-77.4379|773|481|shape|FALSE|TRUE|America/New_York|3|1840003298
+Tatum|Tatum|NM|New Mexico|35025|Lea|33.2553|-103.3112|773|188|shape|FALSE|TRUE|America/Denver|3|1840022962
+Claremont|Claremont|MN|Minnesota|27039|Dodge|44.0449|-92.9976|773|272|shape|FALSE|TRUE|America/Chicago|3|1840006806
+Bluffs|Bluffs|IL|Illinois|17171|Scott|39.7494|-90.5352|773|334|shape|FALSE|TRUE|America/Chicago|3|1840012564
+Greensburg|Greensburg|KS|Kansas|20097|Kiowa|37.6049|-99.2895|772|166|shape|FALSE|TRUE|America/Chicago|3|1840001690
+Tribune|Tribune|KS|Kansas|20071|Greeley|38.4720|-101.7546|772|401|shape|FALSE|TRUE|America/Denver|3|1840010773
+Deer Park|Deer Park|CA|California|06055|Napa|38.5360|-122.4679|772|53|shape|FALSE|FALSE|America/Los_Angeles|3|1840028366
+Altheimer|Altheimer|AR|Arkansas|05069|Jefferson|34.3241|-91.8481|772|145|shape|FALSE|TRUE|America/Chicago|3|1840013615
+Essex|Essex|IA|Iowa|19145|Page|40.8327|-95.3038|772|198|shape|FALSE|TRUE|America/Chicago|3|1840008298
+Aurora|Aurora|NC|North Carolina|37013|Beaufort|35.3030|-76.7889|772|321|shape|FALSE|TRUE|America/New_York|3|1840015398
+Normangee|Normangee|TX|Texas|48289|Leon|31.0300|-96.1161|772|267|shape|FALSE|TRUE|America/Chicago|3|1840023123
+Klondike Corner|Klondike Corner|NH|New Hampshire|33011|Hillsborough|42.9640|-71.6389|772|88|shape|FALSE|FALSE|America/New_York|3|1840146211
+Glorieta|Glorieta|NM|New Mexico|35049|Santa Fe|35.5840|-105.7629|772|38|shape|FALSE|FALSE|America/Denver|3|1840017772
+Hatfield|Hatfield|IN|Indiana|18147|Spencer|37.9030|-87.2219|772|254|shape|FALSE|FALSE|America/Chicago|3|1840026784
+Adams Run|Adams Run|SC|South Carolina|45019|Charleston|32.7219|-80.3465|772|210|shape|FALSE|FALSE|America/New_York|3|1840106249
+Hubbard|Hubbard|IA|Iowa|19083|Hardin|42.3058|-93.3022|771|161|shape|FALSE|TRUE|America/Chicago|3|1840006962
+Mound City|Mound City|KS|Kansas|20107|Linn|38.1325|-94.8506|771|257|shape|FALSE|TRUE|America/Chicago|3|1840008665
+Oxford|Oxford|NE|Nebraska|31065|Furnas|40.2530|-99.6323|771|327|shape|FALSE|TRUE|America/Chicago|3|1840012278
+Oriskany Falls|Oriskany Falls|NY|New York|36065|Oneida|42.9380|-75.4636|771|588|shape|FALSE|TRUE|America/New_York|3|1840004210
+Riceville|Riceville|TN|Tennessee|47107|McMinn|35.3895|-84.6989|771|136|shape|FALSE|FALSE|America/New_York|3|1840025814
+McNary|McNary|AZ|Arizona|04001|Apache|34.0923|-109.8541|771|54|shape|FALSE|FALSE|America/Phoenix|3|1840018996
+New Berlin|New Berlin|PA|Pennsylvania|42119|Union|40.8806|-76.9843|771|767|shape|FALSE|TRUE|America/New_York|3|1840003533
+Tampico|Tampico|IL|Illinois|17195|Whiteside|41.6309|-89.7849|771|755|shape|FALSE|TRUE|America/Chicago|3|1840011423
+Trout Lake|Trout Lake|WA|Washington|53039|Klickitat|45.9976|-121.5290|771|42|shape|FALSE|FALSE|America/Los_Angeles|3|1840024000
